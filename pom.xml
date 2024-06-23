@@ -19,7 +19,7 @@
 <spring.boot.version>2.7.11</spring.boot.version>
 <spring.security.version>5.8.3</spring.security.version>
 <spring-cloud.version>2021.0.3</spring-cloud.version>
-<auth0.version>1.13.3</auth0.version>
+<auth0.version>1.45.1</auth0.version>
 </properties>
 <dependencies>
 <dependency>
